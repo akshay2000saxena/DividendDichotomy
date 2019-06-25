@@ -1,1 +1,1 @@
-# dividenddichotomy
+# Dividend Dichotomy
